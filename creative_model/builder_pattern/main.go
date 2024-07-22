@@ -1,7 +1,7 @@
 package main
 
 import (
-	"builderPattern/builder"
+	"builder_pattern/builder"
 	"fmt"
 )
 
