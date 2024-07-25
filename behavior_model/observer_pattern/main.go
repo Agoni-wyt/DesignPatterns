@@ -1,6 +1,6 @@
 package main
 
-import "observerPattern/pkg"
+import "observer_pattern/pkg"
 
 func main() {
 	bookProduct := pkg.NewProduct("book")
